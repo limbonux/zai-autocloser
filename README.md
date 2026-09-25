@@ -2,6 +2,8 @@
 
 **English** | [العربية](README.ar.md)
 
+[![Install on Greasy Fork](https://img.shields.io/badge/Install-Greasy%20Fork-670000?style=flat-square&logo=greasyfork&logoColor=white)](https://greasyfork.org/en/scripts/597424-z-ai-peak-popup-auto-close-smart-resend)
+
 A Tampermonkey/Violentmonkey userscript that automatically closes the
 Z.ai "Currently in peak hours" popup and safely resends your message.
 
@@ -30,7 +32,9 @@ short, escalating delay — without ever clicking the "Switch to ..." button.
 
 ## Install
 
-1. Install [Tampermonkey](https://www.tampermonkey.net/) (or Violentmonkey).
+1. Install a userscript manager directly from the Chrome Web Store:
+   - [Tampermonkey — Chrome Web Store](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+   - [Violentmonkey — Chrome Web Store](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 2. Create a new userscript and paste the contents of
    [`zai-autocloser.user.js`](zai-autocloser.user.js), or install it directly
    from the raw file URL.

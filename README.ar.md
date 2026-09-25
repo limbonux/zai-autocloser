@@ -2,6 +2,8 @@
 
 [English](README.md) | **العربية**
 
+[![ثبّت من Greasy Fork](https://img.shields.io/badge/%D8%AB%D8%A8%D8%AA-Greasy%20Fork-670000?style=flat-square&logo=greasyfork&logoColor=white)](https://greasyfork.org/en/scripts/597424-z-ai-peak-popup-auto-close-smart-resend)
+
 سكربت مستخدم (Tampermonkey / Violentmonkey) يغلق تلقائيًا نافذة
 "Currently in peak hours" في Z.ai ويعيد إرسال رسالتك بأمان.
 
@@ -29,7 +31,9 @@
 
 ## التثبيت
 
-1. ثبّت إضافة [Tampermonkey](https://www.tampermonkey.net/) (أو Violentmonkey).
+1. ثبّت مدير سكربتات لمتصفحك مباشرة من متجر كروم:
+   - [Tampermonkey — متجر كروم](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+   - [Violentmonkey — متجر كروم](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 2. أنشئ سكربتًا جديدًا والصق محتوى
    [`zai-autocloser.user.js`](zai-autocloser.user.js)، أو ثبّته مباشرة من
    الرابط الخام:

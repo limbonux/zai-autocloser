@@ -2,10 +2,10 @@
 // @name         Z.ai Peak Popup Auto-Close + Smart Resend
 // @name:zh      Z.ai 高峰弹窗自动关闭 + 智能重发
 // @namespace    https://github.com/limbonux/zai-autocloser
-// @homepageURL  https://github.com/limbonux/zai-autocloser
+// @homepageURL  https://greasyfork.org/en/scripts/597424-z-ai-peak-popup-auto-close-smart-resend
 // @supportURL   https://github.com/limbonux/zai-autocloser/issues
 // @source       https://github.com/limbonux/zai-autocloser
-// @version      1.0.0
+// @version      1.0.1
 // @description  Auto-closes the Z.ai "peak hours" popup and resends your message after a safe, escalating delay (EN/ZH UI)
 // @author       limbonux
 // @match        https://chat.z.ai/*
@@ -323,6 +323,6 @@
         }
     };
 
-    log('🚀 Z.ai Peak AutoCloser v1.0.0 running (EN/ZH)');
+    log('🚀 Z.ai Peak AutoCloser v1.0.1 running (EN/ZH)');
     log('💡 Console commands: __zaiPeakAutoCloser.stop() / .reset() / .state');
 })();
