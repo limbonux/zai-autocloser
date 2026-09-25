@@ -1,5 +1,7 @@
 # zai-autocloser
 
+**English** | [العربية](README.ar.md)
+
 A Tampermonkey/Violentmonkey userscript that automatically closes the
 Z.ai "Currently in peak hours" popup and safely resends your message.
 
