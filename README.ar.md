@@ -34,10 +34,12 @@
 1. ثبّت مدير سكربتات لمتصفحك مباشرة من متجر كروم:
    - [Tampermonkey — متجر كروم](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
    - [Violentmonkey — متجر كروم](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
-2. أنشئ سكربتًا جديدًا والصق محتوى
-   [`zai-autocloser.user.js`](zai-autocloser.user.js)، أو ثبّته مباشرة من
-   الرابط الخام:
-   `https://github.com/limbonux/zai-autocloser/raw/main/zai-autocloser.user.js`
+2. افتح صفحة السكربت على Greasy Fork واضغط زر **Install this script**:
+
+   <https://greasyfork.org/en/scripts/597424-z-ai-peak-popup-auto-close-smart-resend>
+
+   (بديل يدوي: أنشئ سكربتًا جديدًا في الإدارة والصق محتوى
+   [`zai-autocloser.user.js`](zai-autocloser.user.js).)
 3. افتح <https://chat.z.ai> — سترى في كونسول المتصفح رسالة
    `🚀 Z.ai Peak AutoCloser …`.
 

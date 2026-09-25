@@ -35,9 +35,12 @@ short, escalating delay — without ever clicking the "Switch to ..." button.
 1. Install a userscript manager directly from the Chrome Web Store:
    - [Tampermonkey — Chrome Web Store](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
    - [Violentmonkey — Chrome Web Store](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
-2. Create a new userscript and paste the contents of
-   [`zai-autocloser.user.js`](zai-autocloser.user.js), or install it directly
-   from the raw file URL.
+2. Open the script page on Greasy Fork and click **Install this script**:
+
+   <https://greasyfork.org/en/scripts/597424-z-ai-peak-popup-auto-close-smart-resend>
+
+   (Manual alternative: create a new userscript in your manager and paste the
+   contents of [`zai-autocloser.user.js`](zai-autocloser.user.js).)
 3. Open <https://chat.z.ai> — you should see `🚀 Z.ai Peak AutoCloser …`
    in the browser console.
 
